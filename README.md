@@ -1,2 +1,2 @@
-# AIRLINE-DATA
-This project focuses on analyzing flight activity and on-time performance data provided by the Department of Transportation. The dataset used in this analysis is sourced from the Bureau of Transportation Statistics.
+# Airline Activity Analysis on the ODROID XU-4 Mini Cluster
+This version of the airline data analysis was designed to be conducted on a resource-constrained computer cluster, such as the [ODROID XU-4 Mini-Cluster](https://diybigdata.net/odroid-xu4-cluster/). 
